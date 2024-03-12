@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAPI", "TaskAPI\TaskAPI.csproj", "{87E177A6-56F3-43CA-9D0E-87304BD25953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailAPI", "MailAPI\MailAPI.csproj", "{F143231E-5C58-49C0-B55A-F8E6ED71EF8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E177A6-56F3-43CA-9D0E-87304BD25953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E177A6-56F3-43CA-9D0E-87304BD25953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E177A6-56F3-43CA-9D0E-87304BD25953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E177A6-56F3-43CA-9D0E-87304BD25953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F143231E-5C58-49C0-B55A-F8E6ED71EF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F143231E-5C58-49C0-B55A-F8E6ED71EF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F143231E-5C58-49C0-B55A-F8E6ED71EF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F143231E-5C58-49C0-B55A-F8E6ED71EF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26476664-B046-43B9-BB39-919B3783726B}
+	EndGlobalSection
+EndGlobal
